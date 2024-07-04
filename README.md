@@ -1,6 +1,6 @@
 # CASO-PRACTICO-3
 Caso practico del modulo 3 parte del diplomado en python x UVM
-
+Objetivo : Demostrar entendimiento en el paradadigma de programación orientado a objetos
 Cree una clase nueva que represente una caja fuerte, a la cual deberá de agregar los métodos :
 
 - para abono
